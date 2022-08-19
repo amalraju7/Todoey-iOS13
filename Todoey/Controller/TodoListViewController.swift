@@ -1,7 +1,7 @@
 
 
 import UIKit
-import CoreData
+
 
 class TodoListViewController: UITableViewController {
     
